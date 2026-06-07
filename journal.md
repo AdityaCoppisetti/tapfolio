@@ -1,3 +1,9 @@
+
+title: "tapfolio"
+author: "(dhruv) adtiya coppisetti"
+description: " A handheld NFC device for developers, makers, and creators."
+created_at: "2026-06-7"
+
 hour - 1  i am making the build plan and how it will function :) 
 
 Build Plan (v1)
