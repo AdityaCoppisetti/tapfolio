@@ -307,6 +307,33 @@ now lets get onto the main board pcb.
 i had very minimal trouble in routing , i feel as i go i will get better at it.
 
 
+<img width="402" height="625" alt="image" src="https://github.com/user-attachments/assets/bb73970c-8a97-4536-acff-21683061304e" />
+
+
+this is after all the wiring i think it could be smaller and more compact but for the version one this is okay.
+
+
+this is the front
+
+<img width="402" height="625" alt="image" src="https://github.com/user-attachments/assets/7ac3c284-6ce2-4765-a1c0-020c192eaafe" />
+
+
+and the back looks like this 
+
+
+
+<img width="402" height="625" alt="image" src="https://github.com/user-attachments/assets/69fca494-2b38-4eee-92b0-3c36fc7172f7" />
+
+
+now this , unlike the tp4056 module was really fun to route.
+
+
+work still required to do-
+
+make a case for it ( what if i dont make a case and let it be out there? would be intresting lowk but idk.
+i might actually design the main board pcb again.
+ and then i have to assemble it 
+
 
 
 
