@@ -176,6 +176,14 @@ and the back looks like this
 now this , unlike the tp4056 module was really fun to route.
 
 
+oh yeah almost forgot! here are the footprints for the main pcb board!
+
+
+
+<img width="713" height="203" alt="image" src="https://github.com/user-attachments/assets/a56e8654-645a-4107-aeab-74506795e432" />
+
+
+
 work still required to do-
 
 make a case for it ( what if i dont make a case and let it be out there? would be intresting lowk but idk.
