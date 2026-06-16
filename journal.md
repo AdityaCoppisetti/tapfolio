@@ -74,14 +74,28 @@ Work as an RFID reader/writer
 Work as a 1443-A card or a virtual card
 Exchange data with other NFC devices such as a smartphone
 
+this is the wiring i did w the rasp pico.
 
-<img width="430" height="658" alt="image" src="https://github.com/user-attachments/assets/47b5a41b-ec2a-4eec-a82e-e41f3788261c" />
+
+<img width="516" height="782" alt="image" src="https://github.com/user-attachments/assets/efcb0142-06ac-41ca-bcf3-5890cea2ee9c" />
+
+
+and the switches to select are like this- 
+
+
+
+<img width="708" height="508" alt="image" src="https://github.com/user-attachments/assets/7ce481c0-5d6f-46a6-a014-ca69858fe348" />
+
+
+
 
 
 everyhting put together looks like this-
 
 
-<img width="516" height="782" alt="image" src="https://github.com/user-attachments/assets/5322fa14-6e6e-48cd-9003-9503fc001c29" />
+<img width="816" height="890" alt="image" src="https://github.com/user-attachments/assets/1bb39306-4e99-4867-8840-aa25bf2cf09c" />
+
+
 
 
 so you could power your tapfolio by the raspberry pico and a wire thats connected to a power bank or your phone but that kinda defeats the pupose of not using a phone to share your portfolio.
