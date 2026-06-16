@@ -80,7 +80,9 @@ Exchange data with other NFC devices such as a smartphone
 
 everyhting put together looks like this-
 
-<img width="790" height="844" alt="Screenshot From 2026-06-16 00-03-54" src="https://github.com/user-attachments/assets/614d55bd-76f4-44db-bf62-b43c36229ab4" />
+
+<img width="516" height="782" alt="image" src="https://github.com/user-attachments/assets/5322fa14-6e6e-48cd-9003-9503fc001c29" />
+
 
 so you could power your tapfolio by the raspberry pico and a wire thats connected to a power bank or your phone but that kinda defeats the pupose of not using a phone to share your portfolio.
 and so im putting liPo bateries in my project and for that i need a tp4056 module. but kicad didnt have the module , just the ic of the module and so i thought here's another learning experience and made my own tp4056 module. 
