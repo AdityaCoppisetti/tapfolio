@@ -22,105 +22,31 @@ so thats our nfc reader and writer module secured.
 now onto the official microcontroller.  i wanted something compact and workable so i thought i would use the xiao seed studio rp2040 microcontroller but the esp 32 seemed like a better choice.  
  
 for this  
-For this specific project, I'd lean toward ESP32 over the XIAO RP2040. 
-
-  
+For this specific project, im leaning with the raspberry pi pico 
 
 Why? 
+because im extremely familiar with the pi pico , ive event build one of my own! launching the documentation for that soon!
+the issue with using a esp 32 xiao was that i wouldve had to share pins which is fine but i would like to use the rasp pico cause im really intriguied by it, however you can use whichever microcontroller
+you are familiar with. even a ardiuno microcontroller would work.
 
- Advantages of using an ESP32: 
 
-1. Web Dashboard 
-
-   - Edit portfolio links from a browser 
-
-   - No need to reflash firmware 
-
-2. Wi-Fi Configuration Mode 
-
-   - Device creates its own hotspot 
-
-   - Configure links from a phone or laptop 
-
-3. Analytics 
-
-   - Track number of scans per link 
-
-   - Store statistics in flash memory 
-
-4. Dynamic Content 
-
-   - Change which link is active remotely 
-
-   - Schedule different links for different situations 
-
-Recommended Board: 
-
+For the screen i was thinking i would maybe the “0.96 Inch I2C/IIC 4-Pin OLED Display Module” that everyone these days are using in their projects and people seem to be really satisfied with it. But no. I dont just want it to look common i want it to be special so im using a different screen. im using the - 1.8 inch SPI Screen Module TFT Interface 240 x 320 without Touch  cause its tiny and reasonably priced. 
   
-
-1. ESP32(Best Choice) 
-
-   - Wi-Fi + Bluetooth 
-
-   - USB-C 
-
-   - Plenty of GPIO 
-
-   - Easy PCB integration 
-
- 
-
-2. XIAO RP2040 
-
-   - Simpler 
-
-   - Lower power consumption 
-
-   - No wireless features 
-
-  
-
-My recommendation: Use the ESP32. 
-
- 
-
-For the screen i was thinking i would maybe the “0.96 Inch I2C/IIC 4-Pin OLED Display Module” that everyone these days are using in their projects and people seem to be really satisfied with it. But no. I dont just want it to look common i want it to be special so im using a different screen. im using the - 2.8 inch SPI Screen Module TFT Interface 240 x 320 without Touch  cause its tiny and reasonably priced. 
- 
-I found this incredibly great deal. This esp23 in dollars is- 2.04 US Dollar lmaooo bahahhahaha ( should i be concerned? Probably) 
-( i will be funding for my project on my own so you may find other deals in your area/region I am allotting about 1300 rupees for this project which is roughly - 13.69 US Dollars) 
- 
- 
 i also want this to be battery powered and so my plan is - 
 
 USB-C 
-
-  │ 
-
-  ▼ 
-
+  to 
 TP4056 Charger 
-
-  │ 
-
-  ▼ 
+  to 
 
 3.7V 500mAh LiPo 
-
-  │ 
-
-  ▼ 
+  to 
 
 Power Switch 
-
-  │ 
-
-  ▼ 
+  to 
 
 ME6211 3.3V Regulator 
-
-  │ 
-
-  ▼ 
+  to 
 
 ESP32 + PN532 + OLED 
 
@@ -133,31 +59,18 @@ Battery charging is handled by a TP4056 charging module, allowing the device to 
 
 Since the battery voltage varies during operation, a dedicated ME6211 low-dropout regulator is used to provide a stable 3.3V supply for the ESP32, OLED display, and PN532 NFC module. 
 
-The design intentionally prioritizes simplicity and portability, using a minimal power architecture that keeps component count low while providing sufficient runtime for   everyday use. 
+The design intentionally prioritizes simplicity and portability, using a minimal power architecture that keeps component count low while providing sufficient runtime for everyday use. 
 
+however i wanted to use the tp4056 , i couldnt find the symbol in the kicad library , now i could just download it from somewhere but whats the fun in that so i decided to make my own , you can find the documentation for that in the journal.md
+
+ this project has taught me:-
  
-
-The cost of everything is-  
-
-ESP32 Module ₹194 
-
-PN532 NFC Module ₹285 
-
-2.8" TFT Display ₹521 
-
-3x Tact Switches ₹18 
-
-TP4056 Charger ₹25 
-
-ME6211 Regulator ₹10 
-
-500mAh LiPo Battery ₹130 
-
-Slide Switch ₹10 
-
-JST-PH Connector ₹5 
-
-Capacitors ₹5  
+ schematics
+ pcb making 
+ the evil task of routing 
+ cad ( this is also evil i just cant proove
+ and then documentation
+ the rest i kinda already knew.
  
 total- ₹1203 
  
