@@ -65,13 +65,10 @@ however i wanted to use the tp4056 , i couldnt find the symbol in the kicad libr
 
  this project has taught me:-
  
- schematics
- pcb making 
- the evil task of routing 
- cad ( this is also evil i just cant proove
- and then documentation
- the rest i kinda already knew.
+ 1) schematics
+ 2) pcb making 
+ 3) the evil task of routing 
+ 4) cad ( this is also evil i just cant proove
+ 5) and then documentation
+ 6) the rest i kinda already knew.
  
-total- ₹1203 
- 
-i will be getting the custom pcb from my local vendor so it’ll cost me less than usual. 
