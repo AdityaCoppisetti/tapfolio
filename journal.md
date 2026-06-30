@@ -274,7 +274,13 @@ maybe something i could do later on.
 
 
 
+here is how the pcb looks like in 3d view-
 
+
+
+<img width="340" height="373" alt="Screenshot From 2026-06-30 16-28-50" src="https://github.com/user-attachments/assets/6d8065aa-3bed-41b0-a0c7-ae19d3ed5711" />
+
+i think this is compact enough lowk.
 
 
 
