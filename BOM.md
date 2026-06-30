@@ -35,7 +35,23 @@ its- 7.8 ruppees which is less than a cent
 ( im worried about the downfall of ruppee now)
 
 
-now ill use chatgpt to make a good actual bom which i can submit.
+here is a better bom
+
+# Bill of Materials (BOM)
+
+| Item | Part Number / Description | Qty | Cost |
+|:---:|----------------------------|:---:|-----:|
+| 1 | Raspberry Pi Pico 2 with Header | 1 | ₹619 |
+| 2 | GoldenMorning 1.8" ST7735S TFT LCD (128×160) | 1 | ₹399 |
+| 3 | PN532 NFC RFID Reader/Writer Module V0.0.1 | 1 | ₹278 |
+| 4 | TP4056 1A Li-ion Charging Module | 1 | ₹38 |
+| 5 | TK-033-KFC-320 Tact Switch | 2 | ₹15.60 |
+| 6 | 3.7V 500mAh LiPo Battery | 1 | — |
+| 7 | 2-Layer FR4 PCB | 1 | — |
+
+### Estimated Cost
+
+**₹1,349.60 (~$14.34 USD)** *(excluding battery, PCB fabrication, and shipping)*
 
 
 
