@@ -208,6 +208,73 @@ i might actually design the main board pcb again.
 
 
 
+title: "tapfolio"
+author: "(dhruv) adtiya coppisetti"
+description: " A handheld NFC device for developers, makers, and creators."
+created_at: "2026-06-30"
+
+
+so basically previously i did mention that i might have to make the main pvb again
+why? 
+my reasoning is that if the pcb is indeed that big then i why not use the nfc module on your phone? like if its that big it doesnt serve the small form factor quality 
+and i really want it to be as small and compact as possible.
+
+
+here i what i think i did wrong with the previous pcb design.
+
+1- there is no reason for me to have a fancy switch layout 
+if i put them in a line thats works good aswell
+
+
+<img width="265" height="198" alt="image" src="https://github.com/user-attachments/assets/16ec003e-48dc-4333-bad9-095931971d1d" />
+
+
+i lowkey dont know why have so many switches , 2 switches work fine- up down and select because like what else am i even going to do?
+i had plans of making this a music player aswell but i would prefer not to as i have that saved as a entirely different project called mp3pod.
+
+
+2- okay so im learning kicad as i go and i had completely butchered the layout on the components as i had sent
+the switches on the back of the pcb as i thought they would still work which they wont because then the switches wont be connect w the
+first layer where it should be.
+so i had to this time not do that and lay it all out cleanly.
+
+<img width="402" height="625" alt="image" src="https://github.com/user-attachments/assets/588a04ee-8fd0-4dab-9fbc-cd2c22b700f9" />
+
+
+like just looking at the pcb its so big and the way ive placed pin headers is weird.
+
+so i began working today and i fixed the pcb.
+
+here is the new design
+
+
+<img width="574" height="626" alt="Screenshot From 2026-06-30 16-28-40" src="https://github.com/user-attachments/assets/9565194e-079e-425d-8e44-b25936eb5da5" />
+
+
+i lowkey really wanted to leave some space in the bottom and add silly pictures using the image converter thingy but i couldnt figure it out and it was justt way too lil space
+HOWEVER IT IS CLICKING TO ME I COULD PUT THE IMAGES ON THE BACK LAYER OF THE PCB. 
+
+but if i am to be honest i dont think im going to get a pcb made as im trying to save up my points and get something from the shop.
+i might make it without like a custom made pcb,
+
+
+i might just get a perfboard and make it myself.
+
+
+there is another design i saw on pintrest which look incredibly intresting i might make it as v2 at the next hackclub hardware event.
+
+
+<img width="1060" height="707" alt="image" src="https://github.com/user-attachments/assets/53f06a33-3e30-4942-aae8-bf5dc1151276" />
+
+
+what i find incredibly intriguiging is that they are using keyboard switches which is more cool in my opinion.
+
+also that display works aswell i dont know why im using this fancy disply if my goal is just to share the portfolio via nfc.
+maybe something i could do later on. 
+
+
+
+
 
 
 
