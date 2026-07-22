@@ -68,7 +68,7 @@ however i wanted to use the tp4056 , i couldnt find the symbol in the kicad libr
  1) schematics
  2) pcb making 
  3) the evil task of routing 
- 4) cad ( this is also evil i just cant proove
+ 4) cad (this is also evil i just cant prove it)
  5) and then documentation
- 6) the rest i kinda already knew.
+ 6) the rest i kinda already knew but i did become better at it
  
