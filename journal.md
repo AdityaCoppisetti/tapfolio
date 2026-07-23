@@ -289,6 +289,62 @@ i think this is compact enough lowk.
 
 
 
+## **july-23** 
+**11.53 PM**
+**Thursday**
+
+i got a review back when i submitted my prioject which pointed out a few flaws-
+1) i should design a case for it as it would not look good without a case
+2) i need to make the BOM in .csv format
+3) wouldnt i need like a lanyard to wear it? yes i would and i already had that so i didnt feel like mentioning that
+
+JUST TO CLARIFY THIS ISNT A NECKLACE THIS IS A BADGE.
+
+
+i had no clue what a .csv file means so i asked chatgpt for help but that was pointless as it kept getting shit wrong. 
+but it did make me a layout and i could open it with libreoffice ( i use linux) and so i just edited that and made the final BOM file. 
+the file looks like this- 
+
+
+
+<img width="1544" height="732" alt="image" src="https://github.com/user-attachments/assets/0e9686c4-8f0b-4bc4-9312-4f6aa1121f47" />
+
+and then i moved onto the case- 
+
+
+i made it sqaure in shape although i did aim for something curved.
+anyways i used onshape to make the case and i have saved them in my repository as "tapfolio.x_t" ( parasolid) and then "tapfolio case.stl" (stl)
+
+here is how the case looks like 
+
+
+
+https://github.com/user-attachments/assets/977d31d9-c725-4749-b979-902cc5812be8
+
+
+
+i hate when there isnt space for the lanyard hook to fit into and it always kinda bent thats why i put a small hole at the top, i wanted 2 beams and a small cylinder
+but i couldnt really extrude that for some weird reason.
+
+<img width="570" height="510" alt="image" src="https://github.com/user-attachments/assets/5c751b52-64b0-42ee-8a63-a68133ce599e" />
+
+
+and then i put holes so i can put the screws in. i already have screws and you can even use zipties instead of screws ( just because you can doesnt mean you should)
+
+
+
+
+and then i put a tiny square hole for the usb to pass thru 
+
+<img width="570" height="510" alt="image" src="https://github.com/user-attachments/assets/66e7975a-2643-4fc1-a575-f02d8c8ecfce" />
+
+
+
+
+
+<img width="1535" height="440" alt="image" src="https://github.com/user-attachments/assets/39a0ec4e-487f-45d5-b8b8-803b9f36d540" />
+
+
 
 
 
