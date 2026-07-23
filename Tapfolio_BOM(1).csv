@@ -1,0 +1,12 @@
+Item,Component,Specification / Part Number,Qty,Unit Price (INR),Requested Cost (INR),Supplier,Product Link,Notes
+1,Raspberry Pi Pico 2,Raspberry Pi Pico 2 with Pre-Soldered Headers,1,619,0,Already Owned,https://robu.in/product/raspberry-pi-pico-2-with-header/,Already owned - not requesting funding
+2,TFT Display,"GoldenMorning 1.8"" TFT LCD (128×160, ST7735S, SPI)",1,399,399,Robu.in,https://robu.in/product/goldenmorning-1-8-inch-tft-module-128x160-st7735s/,
+3,NFC Module,PN532 NFC RFID Reader/Writer Module V0.0.1,1,278,278,Robu.in,https://robu.in/product/pn532-nfc-rfid-read-write-module-v3-kit/,
+4,Battery Charger,TP4056 1A Li-ion Charging Module with Protection (Mini USB),1,38,38,Robu.in,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb/,
+5,Tactile Switch,TK-033-KFC-320 4-Pin Tact Switch,4,6,24,Robu.in,https://robu.in/product/tact-switch-tk-012d-4pins-12x12-smd/,
+6,LiPo Battery,3.7V 500mAh Single-Cell LiPo Battery,1,293,293,,https://www.amazon.in/Bhajanlal-Greenery-Rechargeable-Lithium-Batteries/dp/B0CYQ6H8FW/ref=sr_1_1_sspa?sr=8-1-spons&aref=zc7xMRsrcd&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,
+7,3D Printing Filament,PLA Filament,1,0,0,Already Owned,,Already owned - not requesting funding
+8,PCB,Circuit Board Zero PCB Board,1,                      ₹139,139,amazon,https://www.amazon.in/AVS-COMPONENTS-Printed-Circuit-Board/dp/B08KRZLPNL/ref=sr_1_6?sr=8-6,
+9,lanyard,to make the device wearable ,1,                      ₹20,0,already owned,,already owned – not requesting funding
+,,,,,,,,
+,,Subtotal = 1171INR which is 12.10 US Dollar ,,,,,,
