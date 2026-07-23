@@ -346,12 +346,13 @@ and then i put a tiny square hole for the usb to pass thru
 
 
 
+oh and i made the sqaure hole at the back so the nfc module can send the info without a problem and plus its cool to look at 
 
 
 
 
 
-
+<img width="911" height="811" alt="image" src="https://github.com/user-attachments/assets/e330117c-efcc-469e-a39a-9e3f8144f076" />
 
 
 
