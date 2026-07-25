@@ -391,3 +391,7 @@ so i changed the schematic a lil-
 
 i realised this while routing btw that why the litral fuck are there so many button man. 
 
+i forgot to change the label name and they all said they were switch 1 which once again confused me during routing. here is how it should look like
+
+<img width="778" height="561" alt="image" src="https://github.com/user-attachments/assets/33480401-c618-4727-8bdc-e8addf2fd022" />
+
