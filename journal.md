@@ -355,4 +355,28 @@ oh and i made the sqaure hole at the back so the nfc module can send the info wi
 <img width="911" height="811" alt="image" src="https://github.com/user-attachments/assets/e330117c-efcc-469e-a39a-9e3f8144f076" />
 
 
+july 25th 2026
+time- 6:53AM 
+
+i thought about it and indeed this would be too large to wear around yourself so im redesigning the pcb. 
+starting off in the morning with a fresh mind and im already doing better than before.
+
+also i realised that the wiring for the pn532 module wasnt right 
+
+so i corrected it- 
+
+<img width="516" height="506" alt="image" src="https://github.com/user-attachments/assets/0ec547d8-6c47-4062-a242-05ce857e371c" />
+
+
+im redesigning the pcb which means redesigning the case which is fun tbh. 
+
+oh and i uploaded the pcb to jlcpb and when i saw it i realised i could change the pcb hehe.
+
+<img width="516" height="506" alt="image" src="https://github.com/user-attachments/assets/322bd17d-d569-46e9-8c6f-71811d56a350" />
+
+
+i am saving space by sending the pi pico to the other side and then using that free extra space in the middle to put the buttons, 
+this should be fun
+
+
 
