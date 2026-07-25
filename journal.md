@@ -432,3 +432,5 @@ i added these holes so i could put the lanyard hooks through that.
 
 <img width="1046" height="437" alt="image" src="https://github.com/user-attachments/assets/ae0037d2-3848-4b1f-85e4-53fd3386544e" />
 
+and then i realised i could make the tp4056 module a little smaller so i just modified it a little bit.
+
