@@ -379,4 +379,15 @@ i am saving space by sending the pi pico to the other side and then using that f
 this should be fun
 
 
+time is 7:14 
+i just realised why the fuck are there so many buttons,
+technically all i need is up down and select right?
+its not like im going to be adding any animations or smth, maybe a smiley face but i can make the middle button multifunctional. 
+right?
+
+so i changed the schematic a lil-
+
+<img width="778" height="561" alt="image" src="https://github.com/user-attachments/assets/0d9d6d97-3456-4416-a98c-2cbb904013e7" />
+
+i realised this while routing btw that why the litral fuck are there so many button man. 
 
