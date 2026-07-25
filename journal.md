@@ -418,5 +418,11 @@ after rerouting and everything this is what i ended up with. i wrote texts and p
 <img width="1038" height="702" alt="image" src="https://github.com/user-attachments/assets/235e217a-62b6-4c8e-9217-63318eac3eb7" />
 
 
+this is what it looks like in 3d view from the front-
 
+<img width="628" height="542" alt="image" src="https://github.com/user-attachments/assets/c8a29058-64bf-48bd-8623-8bed2152c5d2" />
+
+and then the back- 
+
+<img width="628" height="542" alt="image" src="https://github.com/user-attachments/assets/70a40e25-f902-42c0-bf3c-83f58a1c45d2" />
 
