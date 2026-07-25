@@ -426,3 +426,4 @@ and then the back-
 
 <img width="628" height="542" alt="image" src="https://github.com/user-attachments/assets/70a40e25-f902-42c0-bf3c-83f58a1c45d2" />
 
+actually ykw screw the case , i want it to look like that rugdy engineering that grabs a normal persons attention.
