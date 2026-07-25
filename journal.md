@@ -395,3 +395,22 @@ i forgot to change the label name and they all said they were switch 1 which onc
 
 <img width="778" height="561" alt="image" src="https://github.com/user-attachments/assets/33480401-c618-4727-8bdc-e8addf2fd022" />
 
+
+time 7:45 
+i realised that the wiring for the display was also wrong so stupid of me man.
+according to the module picture here is how to wire it 
+
+<img width="455" height="395" alt="image" src="https://github.com/user-attachments/assets/f8bb7d0c-cd5b-4f5e-8b2c-bba57017f211" />
+
+
+<img width="928" height="746" alt="image" src="https://github.com/user-attachments/assets/4f91f46d-5134-443e-b6ce-fbb3576a72ab" />
+
+
+and then due to that i had change the entire wiring in the rasp pico, the display and the nfc module are now sharing some common pins 
+
+<img width="557" height="756" alt="image" src="https://github.com/user-attachments/assets/82b01317-82c7-4a29-a58a-8c8b209a5d6a" />
+
+this is how it should look like
+
+
+
