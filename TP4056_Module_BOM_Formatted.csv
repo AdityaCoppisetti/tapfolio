@@ -1,0 +1,25 @@
+Ref,Component,Quantity,Unit Price (INR),Total (INR),Link
+"C1, C2",4.7uF 50V 0805 SMD Capacitor,10,9,90,https://robu.in/product/4-7uf-4700nf-50v-capacitor-0805-smd-package-pack-of-5/
+D1,0402 White SMD LED,5,1.69,8.45,https://robu.in/product/0402-surface-mount-led-white/
+D2,1N4148WT SOD-523 Switching Diode,5,1.21,6.05,https://robu.in/product/1n4148wt-semtech-100v-independent-type-1v50ma-4ns-125ma-sod-523-switching-diodes-rohs/
+J1,USB Type-C HRO TYPE-C-31-M-12 Connector,5,49,245,https://www.amazon.in/Universal-Type-C-4-Pin-Female-Breakout/dp/B0GVZY5L5J/ref=sr_1_1?sr=8-1
+J2,JST S2B-PH-K 2-Pin Connector,5,13,65,https://robu.in/product/s2b-ph-klfsn-jst-1x2p-2p-ph-tin-2-25%e2%84%8385%e2%84%83-2a-1-2mm-brass-bend-insert-push-pullp2mm-wire-to-board-connector-rohs/
+J3,JST S2B-PH-K 2-Pin Connector,5,13,65,https://robu.in/product/s2b-ph-klfsn-jst-1x2p-2p-ph-tin-2-25%e2%84%8385%e2%84%83-2a-1-2mm-brass-bend-insert-push-pullp2mm-wire-to-board-connector-rohs/
+"R1, R2",470Ω 0805 SMD Resistor,10,0.59,5.9,https://robu.in/product/ac0805fr-7w470rl-yageo-res-thick-film-0805-470-ohm-1-0-25w1-4w-%c2%b1100ppm-c-pad-smd-t-r-automotive-aec-q200/
+"R3, R4",5.1kΩ 0805 SMD Resistor,10,0.77,7.7,https://robu.in/product/rc0805fr-075k1l-yageo-res-thick-film-0805-5-1k-ohm-1-0-125w1-8w-%c2%b1100ppm-c-pad-smd-t-r/
+U1,MCP73831T-2ACI/OT Li-Ion Charger IC,5,139,695,https://robu.in/product/mcp73831t-2aci-ot-4-2v-500ma-single-cell-li-ion-li-polymer-battery-charge-management-controller-5-pin-sot-23-microchip-technology/
+,tp4056 module pcb from robu.in,pcb from robu.in,1,                                  ₹900.00,robu.in
+1,Raspberry Pi Pico 2,Raspberry Pi Pico 2 with Pre-Soldered Headers,1,0,already owned not requesting funding
+2,TFT Display,"GoldenMorning 1.8"" TFT LCD (128×160, ST7735S, SPI)",1,399,https://robu.in/product/goldenmorning-1-8-inch-tft-module-128x160-st7735s/
+3,NFC Module,PN532 NFC RFID Reader/Writer Module V0.0.1,1,278,https://robu.in/product/pn532-nfc-rfid-read-write-module-v3-kit/
+4,Battery Charger,TP4056 1A Li-ion Charging Module with Protection (Mini USB),1,38,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection-mini-usb/
+5,Tactile Switch,TK-033-KFC-320 4-Pin Tact Switch,4,6,https://robu.in/product/tact-switch-tk-012d-4pins-12x12-smd/
+6,LiPo Battery,3.7V 500mAh Single-Cell LiPo Battery,1,293,https://www.amazon.in/Bhajanlal-Greenery-Rechargeable-Lithium-Batteries/dp/B0CYQ6H8FW/ref=sr_1_1_sspa?sr=8-1-spons&aref=zc7xMRsrcd&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+7,3D Printing Filament,PLA Filament,1,0,Already owned not requesting funding 
+8,PCB main from JLCPCB,pcb from robu.in,1,                                 ₹900.00,robu.in
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,GRAND TOTAL,"                              ₹4,002.10",
+,,,,which is 41.44 US Dollars,
