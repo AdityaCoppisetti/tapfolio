@@ -412,5 +412,11 @@ and then due to that i had change the entire wiring in the rasp pico, the displa
 
 this is how it should look like
 
+i made ALOT OF SILLY LIL MISTAKES which are not so silly when they are so much bahahha
+after rerouting and everything this is what i ended up with. i wrote texts and put on silkscreen because by the time the pcb arrives i wouldve have forgotton what ive done.
+
+<img width="1038" height="702" alt="image" src="https://github.com/user-attachments/assets/235e217a-62b6-4c8e-9217-63318eac3eb7" />
+
+
 
 
