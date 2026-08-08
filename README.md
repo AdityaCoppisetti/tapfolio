@@ -5,11 +5,10 @@ here is how the pcb looks like -
 
 
 
-
-<img width="1068" height="684" alt="image" src="https://github.com/user-attachments/assets/dedfea9d-5e81-475b-9e38-47b09ce7a90b" />
-
-
 <img width="585" height="498" alt="image" src="https://github.com/user-attachments/assets/2ac28925-283d-40db-9242-f28b612e9ab7" />
+
+
+<img width="646" height="600" alt="image" src="https://github.com/user-attachments/assets/edaaef9e-0b70-4085-bb2c-0f273c337079" />
 
 
 
