@@ -450,3 +450,8 @@ oh and i made this weird asf case
 <img width="646" height="600" alt="image" src="https://github.com/user-attachments/assets/49b668eb-5be0-4b06-876a-35aa05e520be" />
 
 i know its not much of a case
+
+
+i added those rectangle holes in the top so i could pass the lanyard hook
+
+<img width="646" height="600" alt="image" src="https://github.com/user-attachments/assets/d7f7a99c-2ad2-4ece-8d30-071dbd90875f" />
