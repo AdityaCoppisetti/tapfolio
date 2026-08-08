@@ -444,4 +444,9 @@ https://github.com/user-attachments/assets/af56ca92-55a6-4195-8565-f2a839318ba0
 <img width="781" height="742" alt="image" src="https://github.com/user-attachments/assets/b5768c2b-d0f4-4217-972a-ae8966dc39ac" />
 
 
+oh and i made this weird asf case 
 
+
+<img width="646" height="600" alt="image" src="https://github.com/user-attachments/assets/49b668eb-5be0-4b06-876a-35aa05e520be" />
+
+i know its not much of a case
