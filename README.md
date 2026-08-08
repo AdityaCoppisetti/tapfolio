@@ -35,7 +35,7 @@ for the nfc reader and writer i thought that the “blue PN5180 Nfc Rf Sensor Is
  
 so thats our nfc reader and writer module secured. 
  
-now onto the official microcontroller.  i wanted something compact and workable so i thought i would use the xiao seed studio rp2040 microcontroller but the esp 32 seemed like a better choice.  
+now onto the official microcontroller. 
  
 for this  
 For this specific project, im leaning with the raspberry pi pico 
