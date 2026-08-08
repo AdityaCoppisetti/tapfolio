@@ -1,3 +1,18 @@
+here is how the pcb looks like - 
+
+
+<img width="585" height="498" alt="image" src="https://github.com/user-attachments/assets/3ded33da-83c2-46f2-b200-da848829ddf7" />
+
+
+
+
+<img width="1068" height="684" alt="image" src="https://github.com/user-attachments/assets/dedfea9d-5e81-475b-9e38-47b09ce7a90b" />
+
+
+<img width="585" height="498" alt="image" src="https://github.com/user-attachments/assets/2ac28925-283d-40db-9242-f28b612e9ab7" />
+
+
+
 HEY! So im dhruv coppisetti and im a fellow hackcluber like you guys! Ive been the cameraman for hack club Delhi for the past 3 events- daydream, campfire and build guild. 
 Every person i meet and every event i go to, people think i am just a cameraman, AS IF I DONT KNOW ANYTHING IN ROBOTICS!!!bahahaha i always prove them wrong by showing my projects and accomplishments.  
  
@@ -6,6 +21,7 @@ in build guild delhi my team did this incredibly creative thing where we 3d prin
  https://portraitmode.io/profile/dhruv-coppisetti/ 
 
 And so shortly after that event i was doing this marketing internship where i was setting up stalls in places in other cities and in my home city aswell. I would meet tons of people! Even customers that wanted to buy products would be great for networking as i would set up stalls in tech company buildings. Even the people in their own stalls beside mine would be extremely beneficial to network!  
+
  
 after build guild i took a nfc fob I got with my robotics kit and programmed it to open my portfolio link. But that was just one portfolio out of – robotics, psychology, poetry, filmmaking and photography. And so thus began the ponder “ do i carry 6 different key fobs with me or what” i ended up with the conclusion that i need a creative and cool nfc portfolio badge that could be good to start conversations and impress the people im networking with ( basically make a lasting impression). And so, i decided – i would make something wearable around my neck, add a screen to it and buttons and make it look like a built it in a cave. 
 
@@ -24,33 +40,12 @@ now onto the official microcontroller.  i wanted something compact and workable 
 for this  
 For this specific project, im leaning with the raspberry pi pico 
 
-Why? 
-because im extremely familiar with the pi pico , ive event build one of my own! launching the documentation for that soon!
-the issue with using a esp 32 xiao was that i wouldve had to share pins which is fine but i would like to use the rasp pico cause im really intriguied by it, however you can use whichever microcontroller
-you are familiar with. even a ardiuno microcontroller would work.
+okay so here is the schematic + components im using!
 
+<img width="826" height="835" alt="image" src="https://github.com/user-attachments/assets/773b8ae4-4856-4b1c-a78a-bb5338dab076" />
 
-For the screen i was thinking i would maybe the “0.96 Inch I2C/IIC 4-Pin OLED Display Module” that everyone these days are using in their projects and people seem to be really satisfied with it. But no. I dont just want it to look common i want it to be special so im using a different screen. im using the - 1.8 inch SPI Screen Module TFT Interface 240 x 320 without Touch  cause its tiny and reasonably priced. 
-  
 i also want this to be battery powered and so my plan is - 
 
-USB-C 
-  to 
-TP4056 Charger 
-  to 
-
-3.7V 500mAh LiPo 
-  to 
-
-Power Switch 
-  to 
-
-ME6211 3.3V Regulator 
-  to 
-
-ESP32 + PN532 + OLED 
-
- 
 Power System 
 
 This device is powered by a single 3.7V 500mAh lithium-polymer battery, chosen for its compact size and ease of integration into a handheld enclosure. 
@@ -62,6 +57,21 @@ Since the battery voltage varies during operation, a dedicated ME6211 low-dropou
 The design intentionally prioritizes simplicity and portability, using a minimal power architecture that keeps component count low while providing sufficient runtime for everyday use. 
 
 however i wanted to use the tp4056 , i couldnt find the symbol in the kicad library , now i could just download it from somewhere but whats the fun in that so i decided to make my own , you can find the documentation for that in the journal.md
+
+
+ here how the lithium battery charging module i made!
+
+the components- 
+
+<img width="1022" height="529" alt="image" src="https://github.com/user-attachments/assets/1ca15466-6af5-4f68-ae6b-fad0be63a700" />
+
+
+
+and how my pcb looks like - 
+
+<img width="733" height="628" alt="image" src="https://github.com/user-attachments/assets/f9d9710b-2eb9-478f-9481-f5f18f588534" />
+
+it is really really compact
 
  this project has taught me:-
  
