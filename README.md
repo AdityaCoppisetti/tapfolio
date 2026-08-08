@@ -14,7 +14,7 @@ here is how the pcb looks like -
 
 
 HEY! So im dhruv coppisetti and im a fellow hackcluber like you guys! Ive been the cameraman for hack club Delhi for the past 3 events- daydream, campfire and build guild. 
-Every person i meet and every event i go to, people think i am just a cameraman, AS IF I DONT KNOW ANYTHING IN ROBOTICS!!!bahahaha i always prove them wrong by showing my projects and accomplishments.  
+Every person i meet and every event i go to, people think i am just a cameraman, AS IF I DONT KNOW ANYTHING IN ROBOTICS!!!bahahaha  
  
 in build guild delhi my team did this incredibly creative thing where we 3d printed badges and put nfc tags behind them and we would program then to show anything we want like our insta profiles so we could connect with people in a fun way or show people our graphic designing portfolios. For me it was my photography portfolio - 
 
