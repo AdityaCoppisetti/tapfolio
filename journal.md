@@ -9,7 +9,7 @@ hour - 1  i am making the build plan and how it will function :)
 
 
  5. Project Goals
-
+ 
  Portable and rechargeable
  Dynamic NFC link sharing
  Product-like user experience
