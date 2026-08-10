@@ -5,9 +5,7 @@
 here is how the pcb looks like - 
 
 
-<img width="585" height="498" alt="image" src="https://github.com/user-attachments/assets/3ded33da-83c2-46f2-b200-da848829ddf7" />
-
-
+<img width="787" height="698" alt="Screenshot From 2026-08-10 12-41-30" src="https://github.com/user-attachments/assets/1591cadf-a456-4779-b7c4-6436278434ce" />
 
 <img width="585" height="498" alt="image" src="https://github.com/user-attachments/assets/2ac28925-283d-40db-9242-f28b612e9ab7" />
 
