@@ -76,12 +76,5 @@ and how my pcb looks like -
 
 it is really really compact
 
- this project has taught me:-
- 
- 1) schematics
- 2) pcb making 
- 3) the evil task of routing 
- 4) cad (this is also evil i just cant prove it)
- 5) and then documentation
- 6) the rest i kinda already knew but i did become better at it
+# how to assemble 
  
