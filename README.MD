@@ -87,3 +87,7 @@ you take your solder stencil and then put the solder paste all over the required
 and then for the main pcb , everything is labelled really neatly where you have to put them 
 
 
+# how to use 
+
+there are 3 buttons , the right button you use to go up your nfc profiles list, the left button you use to go down your profile list and then the middle button is to select and write the nfc profile 
+its that simple 
