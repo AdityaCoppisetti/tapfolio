@@ -77,4 +77,6 @@ and how my pcb looks like -
 it is really really compact
 
 # how to assemble 
- 
+
+
+after you receive the parts + pcb 
