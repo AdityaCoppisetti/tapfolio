@@ -80,3 +80,7 @@ it is really really compact
 
 
 after you receive the parts + pcb 
+
+you take your solder stencil and then put the solder paste all over the required area  and then you use the footprints to place the components on the required area and then you reflow them using a hotplate or a hot blow air gun. 
+
+
