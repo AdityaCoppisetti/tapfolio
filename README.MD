@@ -84,3 +84,6 @@ after you receive the parts + pcb
 you take your solder stencil and then put the solder paste all over the required area  and then you use the footprints to place the components on the required area and then you reflow them using a hotplate or a hot blow air gun. 
 
 
+and then for the main pcb , everything is labelled really neatly where you have to put them 
+
+
